@@ -1,4 +1,5 @@
-
+ SAMPLE
+ 
 # DataMining
 
 DataMining is a little collection of several Data-Mining-Algorithms.
